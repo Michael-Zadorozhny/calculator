@@ -57,3 +57,6 @@ body{
   color:white;
   font-size:2rem;
 }
+.del:hover{
+cursor:not-allowed;
+}
